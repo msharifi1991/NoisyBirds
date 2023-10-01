@@ -7,6 +7,7 @@ Welcome to the Noisy Birds Game! This is a simple 2D game where you, as a player
 - [Getting Started](#getting-started)
 - [Gameplay](#gameplay)
 - [Contributing](#contributing)
+- [ScreenShots](#screenshots)
 
 ## Getting Started
 
@@ -33,3 +34,10 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 3. Make your changes and test them thoroughly.
 4. Submit a pull request with a clear description of your changes.
 
+## Screenshots
+<div style="display: flex; justify-content: space-between;">
+    <img src="Images/NoisyBird1.png" alt="Gameplay Screenshot"  width="400"/>
+    <img src="Images/NoisyBird2.png" alt="Score Screen Screenshot" width="400"/>
+  <img src="Images/NoisyBird3.png" alt="Score Screen Screenshot" width="400"/>
+  <img src="Images/NoisyBird4.png" alt="Score Screen Screenshot" width="400"/>
+</div>
