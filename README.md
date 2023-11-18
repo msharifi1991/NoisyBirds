@@ -1,7 +1,7 @@
 # NoisyBirds
 
 Welcome to the Noisy Birds Game! This is a simple 2D game where you, as a player, need to hunt down all the monsters to advance to the next level. The monsters can be defeated by colliding with them or knocking them off the screen.
-
+[GitHub](https://github.com/msharifi1991/NoisyBirds)
 ## Table of Contents
 
 - [Getting Started](#getting-started)
